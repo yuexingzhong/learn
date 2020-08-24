@@ -1,0 +1,726 @@
+09:14:04.771 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1557 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:14:04.778 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:14:06.714 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] - Tomcat initialized with port(s): 9000 (http)
+09:14:06.733 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:14:06.734 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:14:06.736 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:14:06.833 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:14:06.833 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1886 ms
+09:14:07.133 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+09:14:07.326 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:14:07.419 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] - Tomcat started on port(s): 9000 (http) with context path ''
+09:14:07.442 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.709 seconds (JVM running for 6.379)
+09:14:07.447 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:14:07.447 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:14:07.448 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:15:38.329 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+09:15:46.765 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1566 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:15:46.782 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:15:48.655 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] - Tomcat initialized with port(s): 9000 (http)
+09:15:48.708 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:15:48.713 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:15:48.716 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:15:48.880 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:15:48.880 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1971 ms
+09:15:49.210 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+09:15:49.565 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:15:49.618 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] - Tomcat started on port(s): 9000 (http) with context path ''
+09:15:49.675 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 5.099 seconds (JVM running for 6.573)
+09:15:49.684 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:15:49.684 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:15:49.684 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:15:56.290 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:15:56.291 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+09:15:56.301 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] - Completed initialization in 9 ms
+09:22:01.478 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+09:22:44.074 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1663 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:22:44.080 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:22:45.589 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] - Tomcat initialized with port(s): 9000 (http)
+09:22:45.604 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:22:45.605 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:22:45.605 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:22:45.710 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:22:45.710 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 1561 ms
+09:22:45.981 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+09:22:46.172 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:22:46.228 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] - Tomcat started on port(s): 9000 (http) with context path ''
+09:22:46.242 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 2.807 seconds (JVM running for 8.729)
+09:22:46.245 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:22:46.246 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:22:46.246 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:22:53.899 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:22:53.900 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+09:22:53.912 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] - Completed initialization in 12 ms
+09:23:20.979 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+09:23:30.096 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1673 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:23:30.112 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:23:32.682 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] - Tomcat initialized with port(s): 9000 (http)
+09:23:32.702 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:23:32.703 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:23:32.704 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:23:32.827 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:23:32.828 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 2497 ms
+09:23:33.176 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+09:23:33.402 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:23:33.457 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] - Tomcat started on port(s): 9000 (http) with context path ''
+09:23:33.494 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.688 seconds (JVM running for 6.224)
+09:23:33.498 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:23:33.498 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:23:33.498 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:23:37.704 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:23:37.705 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+09:23:37.715 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] - Completed initialization in 10 ms
+09:24:26.959 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+09:25:06.187 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1707 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:25:06.197 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:25:09.604 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] - Tomcat initialized with port(s): 9000 (http)
+09:25:09.626 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:25:09.627 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:25:09.628 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:25:09.777 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:25:09.778 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:285] - Root WebApplicationContext: initialization completed in 3297 ms
+09:25:10.237 [main] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:181] - Initializing ExecutorService 'applicationTaskExecutor'
+09:25:10.409 [main] INFO  o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:58] - Adding welcome page template: index
+09:25:10.687 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:25:10.751 [main] INFO  o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] - Tomcat started on port(s): 9000 (http) with context path ''
+09:25:10.776 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 6.994 seconds (JVM running for 10.741)
+09:25:10.782 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:25:10.782 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:25:10.783 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:25:13.978 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:25:13.979 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:525] - Initializing Servlet 'dispatcherServlet'
+09:25:14.001 [http-nio-9000-exec-1] INFO  o.s.w.s.DispatcherServlet [FrameworkServlet.java:547] - Completed initialization in 22 ms
+09:25:47.730 [SpringContextShutdownHook] INFO  o.s.s.c.ThreadPoolTaskExecutor [ExecutorConfigurationSupport.java:218] - Shutting down ExecutorService 'applicationTaskExecutor'
+09:25:58.726 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1820 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:25:58.735 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:26:02.261 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:26:02.263 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:26:02.265 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:26:02.418 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:26:03.481 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:26:03.580 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 6.944 seconds (JVM running for 9.632)
+09:26:03.586 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:26:03.586 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:26:03.586 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:27:05.713 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1852 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:27:05.720 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:27:07.471 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:27:07.473 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:27:07.473 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:27:07.566 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:27:08.260 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:27:08.345 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.771 seconds (JVM running for 5.083)
+09:27:08.349 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:27:08.350 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:27:08.350 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:27:11.995 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:29:10.511 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1872 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:29:10.520 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:29:12.240 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:29:12.242 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:29:12.242 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:29:12.332 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:29:12.826 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:29:12.892 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.405 seconds (JVM running for 4.723)
+09:29:12.895 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:29:12.895 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:29:12.895 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:29:16.141 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:31:18.898 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1889 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:31:18.904 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:31:20.435 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:31:20.436 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:31:20.437 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:31:20.528 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:31:21.013 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:31:21.077 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 2.788 seconds (JVM running for 11.538)
+09:31:21.083 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:31:21.083 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:31:21.083 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:32:19.142 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1909 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:32:19.151 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:32:20.731 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:32:20.732 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:32:20.733 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:32:20.822 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:32:21.317 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:32:21.385 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.401 seconds (JVM running for 4.643)
+09:32:21.388 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:32:21.389 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:32:21.389 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:32:34.063 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:33:16.518 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 1918 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:33:16.524 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:33:18.722 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:33:18.723 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:33:18.724 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:33:18.862 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:33:19.584 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:33:19.653 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.455 seconds (JVM running for 5.662)
+09:33:19.656 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:33:19.657 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:33:19.657 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:33:21.083 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:46:46.024 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2213 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:46:46.031 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:46:47.598 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:46:47.600 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:46:47.600 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:46:47.689 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:46:48.307 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:46:48.372 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.169 seconds (JVM running for 5.128)
+09:46:48.376 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:46:48.376 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:46:48.377 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:46:53.647 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:47:28.297 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+09:47:28.304 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+09:47:28.305 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+09:47:28.305 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@3dae93fa
+09:49:53.584 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2246 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:49:53.597 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:49:56.592 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:49:56.594 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:49:56.594 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:49:56.679 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:49:57.230 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:49:57.298 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.774 seconds (JVM running for 5.852)
+09:49:57.302 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:49:57.302 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:49:57.302 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:50:14.974 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:50:46.385 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2255 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:50:46.396 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:50:48.439 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:50:48.446 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:50:48.447 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:50:49.059 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:50:50.885 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:50:51.397 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 5.952 seconds (JVM running for 7.186)
+09:50:51.461 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:50:51.462 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:50:51.462 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:51:57.548 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:56:17.390 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2303 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:56:17.400 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:56:20.480 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:56:20.483 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:56:20.484 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:56:20.619 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:56:21.242 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:56:21.319 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 5.392 seconds (JVM running for 6.646)
+09:56:21.323 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:56:21.323 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:56:21.323 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:56:47.332 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:56:49.712 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+09:56:49.715 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+09:56:49.716 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+09:56:49.717 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@47e749de
+09:58:03.206 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2332 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+09:58:03.213 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+09:58:04.855 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+09:58:04.857 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+09:58:04.857 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+09:58:04.940 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+09:58:05.425 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+09:58:05.484 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.216 seconds (JVM running for 4.447)
+09:58:05.487 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+09:58:05.488 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+09:58:05.488 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+09:58:52.969 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+09:58:55.463 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+09:58:55.466 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+09:58:55.467 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+09:58:55.467 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@34582caa
+10:04:07.167 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:07.168 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:07.168 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:07.169 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@db40ec0
+10:04:07.953 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:07.954 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:07.954 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:07.955 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@19c8388e
+10:04:08.310 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:08.311 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:08.312 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:08.313 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@c029f9b
+10:04:08.519 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:08.519 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:08.520 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:08.521 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@6453dcaf
+10:04:08.773 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:08.774 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:08.774 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:08.775 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@6fcb87c7
+10:04:10.470 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:10.471 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:10.472 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:10.472 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@170fc5c7
+10:04:11.877 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:11.878 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:11.879 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:11.879 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@2c5706b
+10:04:12.689 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:12.690 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:12.690 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:12.691 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@6a943e55
+10:04:13.969 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:13.970 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:13.971 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:13.971 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@610c744e
+10:04:15.561 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:15.562 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:15.563 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:15.564 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@31362faf
+10:04:15.721 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:15.721 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:15.722 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:15.723 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@502a8203
+10:04:15.888 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:04:15.889 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:04:15.889 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:04:15.890 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@373e106
+10:05:44.545 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:05:44.546 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:05:44.547 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:05:44.547 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@5eed7676
+10:06:10.741 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2403 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:06:10.747 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:06:12.315 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:06:12.317 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:06:12.317 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:06:12.420 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:06:12.985 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:06:13.050 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.048 seconds (JVM running for 4.306)
+10:06:13.054 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:06:13.054 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:06:13.054 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:06:23.423 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:07:26.826 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2417 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:07:26.841 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:07:29.031 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:07:29.033 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:07:29.034 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:07:29.152 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:07:29.894 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:07:29.975 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.181 seconds (JVM running for 5.837)
+10:07:29.980 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:07:29.981 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:07:29.981 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:13:15.287 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2465 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:13:15.293 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:13:16.749 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:13:16.750 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:13:16.750 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:13:16.849 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:13:17.365 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:13:17.429 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 2.81 seconds (JVM running for 3.939)
+10:13:17.433 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:13:17.433 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:13:17.433 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:13:44.500 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:23:05.855 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2547 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:23:05.860 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:23:07.233 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:23:07.234 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:23:07.235 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:23:07.322 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:23:07.836 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:23:07.900 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 2.68 seconds (JVM running for 3.62)
+10:23:07.904 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:23:07.904 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:23:07.904 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:23:15.102 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:23:17.614 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:23:17.617 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:23:17.617 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:23:17.618 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@4a890289
+10:24:01.468 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2556 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:24:01.475 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:24:04.177 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:24:04.179 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:24:04.179 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:24:04.273 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:24:04.828 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:24:04.891 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.762 seconds (JVM running for 6.229)
+10:24:04.895 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:24:04.895 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:24:04.895 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:24:09.985 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:24:11.843 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:24:11.846 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:24:11.847 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:24:11.847 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@312c1eef
+10:24:55.089 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2565 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:24:55.097 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:24:56.716 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:24:56.717 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:24:56.717 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:24:56.807 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:24:57.329 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:24:57.392 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.325 seconds (JVM running for 4.453)
+10:24:57.396 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:24:57.396 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:24:57.396 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:27:51.724 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2598 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:27:51.732 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:27:53.334 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:27:53.335 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:27:53.335 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:27:53.432 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:27:53.952 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:27:54.021 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.308 seconds (JVM running for 4.558)
+10:27:54.024 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:27:54.025 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:27:54.025 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:27:56.830 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:27:58.686 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:27:58.689 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:27:58.690 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:27:58.690 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@fc06d96
+10:28:23.261 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2605 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:28:23.271 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:28:25.181 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:28:25.183 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:28:25.183 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:28:25.288 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:28:25.870 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:28:25.941 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.695 seconds (JVM running for 4.91)
+10:28:25.945 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:28:25.945 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:28:25.945 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:28:30.584 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:28:32.463 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:28:32.465 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:28:32.466 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:28:32.467 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@439e8b90
+10:29:50.584 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2620 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:29:50.591 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:29:52.242 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:29:52.243 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:29:52.244 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:29:52.330 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:29:52.845 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:29:52.908 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.268 seconds (JVM running for 4.435)
+10:29:52.912 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:29:52.912 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:29:52.912 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:29:58.313 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:30:01.146 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:30:01.148 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:30:01.149 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:30:01.150 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@4a890289
+10:30:12.999 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2624 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:30:13.007 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:30:14.631 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:30:14.632 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:30:14.633 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:30:14.721 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:30:15.240 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:30:15.302 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.315 seconds (JVM running for 4.432)
+10:30:15.307 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:30:15.308 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:30:15.308 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:30:20.430 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:30:22.655 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:30:22.657 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:30:22.658 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:30:22.659 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@74a5f80a
+10:31:53.257 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2644 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:31:53.265 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:31:55.157 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:31:55.162 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:31:55.164 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:31:55.304 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:31:56.012 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:31:56.092 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.769 seconds (JVM running for 5.18)
+10:31:56.097 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:31:56.097 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:31:56.097 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:32:04.747 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2647 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:32:04.756 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:32:06.228 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:32:06.230 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:32:06.230 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:32:06.318 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:32:06.843 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:32:06.907 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.133 seconds (JVM running for 5.551)
+10:32:06.911 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:32:06.911 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:32:06.911 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:32:09.913 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:32:12.212 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:12.215 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:12.216 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:12.217 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@4faa18ab
+10:32:15.405 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:15.406 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:15.407 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:15.408 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@668c2f56
+10:32:16.328 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:16.329 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:16.330 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:16.330 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@51da7ce3
+10:32:16.718 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:16.720 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:16.721 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:16.721 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@6a25a7f5
+10:32:16.901 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:16.902 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:16.903 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:16.903 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@243ddfd0
+10:32:17.108 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:17.109 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:17.110 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:17.111 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@dd79408
+10:32:17.308 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:17.308 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:17.309 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:17.310 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@7b4ad33
+10:32:17.482 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:32:17.482 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:32:17.483 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:32:17.483 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@71ef83b
+10:36:24.273 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2679 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:36:24.286 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:36:28.506 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:36:28.507 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:36:28.508 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:36:28.616 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:36:29.334 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:36:29.422 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 6.426 seconds (JVM running for 7.988)
+10:36:29.428 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:36:29.429 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:36:29.429 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:36:37.996 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2683 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:36:38.009 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:36:39.726 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:36:39.728 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:36:39.728 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:36:39.824 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:36:40.362 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:36:40.429 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.548 seconds (JVM running for 4.854)
+10:36:40.432 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:36:40.432 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:36:40.432 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:36:59.586 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:37:04.079 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:37:04.082 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:37:04.083 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:37:04.084 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@55a95ed9
+10:38:29.600 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2702 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:38:29.610 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:38:33.710 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:38:33.713 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:38:33.714 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:38:34.035 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:38:35.921 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:38:36.202 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:38:36.263 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 7.782 seconds (JVM running for 9.12)
+10:38:36.268 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:38:36.269 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:38:36.269 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:38:38.711 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:38:38.714 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:38:38.715 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:38:38.715 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@71d0783a
+10:38:40.749 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:38:40.750 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:38:40.750 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:38:40.751 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@478289b2
+10:38:42.029 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:38:42.030 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:38:42.032 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:38:42.032 [http-nio-9000-exec-7] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@24b8fc5f
+10:38:43.183 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:38:43.184 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:38:43.185 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:38:43.185 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@118f819b
+10:38:43.334 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:38:43.335 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:38:43.335 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:38:43.336 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@6236f2ad
+10:38:43.501 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:38:43.501 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:38:43.502 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:38:43.502 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@3c5188db
+10:43:05.404 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2773 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:43:05.409 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:43:07.170 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:43:07.172 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:43:07.173 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:43:07.284 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:43:07.915 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:43:07.982 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.25 seconds (JVM running for 4.48)
+10:43:07.985 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:43:07.986 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:43:07.986 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:43:27.539 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:43:29.435 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:43:29.438 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:43:29.439 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:43:29.439 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@4a890289
+10:43:31.175 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:43:31.176 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:43:31.177 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:43:31.177 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@431275cd
+10:43:32.639 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:43:32.640 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:43:32.641 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:43:32.641 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@1b37cba5
+10:47:48.618 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2804 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:47:48.624 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:47:51.385 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:47:51.388 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:47:51.389 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:47:51.511 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:47:52.445 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:47:52.554 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 5.838 seconds (JVM running for 8.063)
+10:47:52.562 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:47:52.562 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:47:52.563 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:48:23.331 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2813 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:48:23.341 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:48:25.840 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:48:25.841 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:48:25.841 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:48:25.940 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:48:26.661 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:48:26.744 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 5.519 seconds (JVM running for 7.064)
+10:48:26.749 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:48:26.749 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:48:26.749 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:48:34.776 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:48:51.276 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:48:51.280 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:48:51.281 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:48:51.282 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@312c1eef
+10:48:51.828 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:48:51.828 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:48:51.829 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:48:51.830 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@59e9d7c3
+10:48:52.305 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:48:52.306 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:48:52.307 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:48:52.308 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@3f90e5c
+10:48:54.062 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:48:54.063 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:48:54.064 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:48:54.065 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@2dff7f34
+10:48:56.372 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:48:56.373 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:48:56.373 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:48:56.374 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@4a09bb01
+10:49:05.213 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:49:05.215 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:49:05.216 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:49:05.216 [http-nio-9000-exec-6] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@7014b4da
+10:49:10.875 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:49:10.876 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:49:10.877 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:49:10.879 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@343f708d
+10:49:11.540 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:49:11.540 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:49:11.541 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:49:11.542 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@14849563
+10:49:19.676 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 2827 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+10:49:19.683 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:49:21.705 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:49:21.706 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:49:21.706 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:49:21.809 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:49:22.377 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:49:22.446 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.046 seconds (JVM running for 5.528)
+10:49:22.450 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:49:22.450 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:49:22.450 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+11:03:16.130 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:03:19.053 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:03:19.057 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:03:19.058 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:03:19.059 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@2c263c5b
+11:03:20.422 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:03:20.423 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:03:20.424 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:03:20.425 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@683f182e
+11:36:11.178 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 3177 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+11:36:11.183 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+11:36:13.121 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+11:36:13.122 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+11:36:13.123 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+11:36:13.232 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+11:36:14.878 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+11:36:15.022 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.515 seconds (JVM running for 5.739)
+11:36:15.036 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+11:36:15.037 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+11:36:15.037 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+11:36:32.191 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:40:16.621 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 3220 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+11:40:16.629 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+11:43:25.725 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 3245 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+11:43:25.745 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+11:43:44.473 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 3247 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+11:43:44.482 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+11:43:47.049 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+11:43:47.051 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+11:43:47.051 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+11:43:47.167 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+11:43:48.567 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+11:43:48.643 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 5.227 seconds (JVM running for 7.51)
+11:43:48.652 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+11:43:48.653 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:16] - ==== loyalty application start success ====
+11:43:48.653 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:17] - ===========================================
+11:43:52.808 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:51:20.597 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 3310 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+11:51:20.603 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+11:51:22.525 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+11:51:22.526 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+11:51:22.526 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+11:51:22.615 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+11:51:23.885 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+11:51:23.951 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.099 seconds (JVM running for 4.965)
+11:51:23.961 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+11:51:23.961 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+11:51:23.961 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+11:51:28.517 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:51:39.160 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:51:39.163 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:51:39.164 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:51:39.165 [http-nio-9000-exec-10] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@248d0a08
+11:51:41.057 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:51:41.058 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:51:41.059 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:51:41.059 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@6219c0bf
+11:51:42.457 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:51:42.459 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:51:42.459 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:51:42.460 [http-nio-9000-exec-2] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@50eaf48e
+11:56:53.144 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on bogon with PID 3356 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)
+11:56:53.156 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+11:56:55.041 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+11:56:55.043 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+11:56:55.043 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+11:56:55.153 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+11:56:56.079 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+11:56:56.159 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.087 seconds (JVM running for 5.321)
+11:56:56.171 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+11:56:56.171 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+11:56:56.171 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+11:57:38.386 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+11:57:45.765 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:57:45.767 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:57:45.768 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:57:45.769 [http-nio-9000-exec-4] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@4cad10cd
+11:57:49.912 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:57:49.913 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:57:49.914 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:57:49.914 [http-nio-9000-exec-5] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@5c1be7ea
+11:57:52.624 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:57:52.625 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:57:52.625 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:57:52.626 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@2a4ef232
+11:57:53.826 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+11:57:53.827 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+11:57:53.828 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+11:57:53.829 [http-nio-9000-exec-8] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@36bedb34

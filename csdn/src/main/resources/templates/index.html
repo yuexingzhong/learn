@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.w3.org/1999/xhtml">
+<head lang="en">
+    <meta charset="UTF-8"/>
+    <title></title>
+    <link rel="stylesheet" type="text/css" th:href="@{./css/bootstrap.min.css}"/>
+    <link rel="stylesheet" type="text/css" th:href="@{./css/mycss.css}"/>
+</head>
+<body ms-controller="ajaxTestController">
+<h1 th:text="${msg}">Hello World</h1>
+
+<button type="button" class="btn btn-primary" onclick="getInfo()" >INFO</button>
+
+<button type="button" class="btn btn-danger" onclick="getJvm()" >JVM</button>
+
+
+<table class="table table-striped" id='tabletest' style="margin-top: 20px;">
+    <tr>
+        <td class="success">请求头</td>
+        <td class="warning">请求方式</td>
+        <td class="danger">cookie</td>
+        <td class="info">耗时</td>
+    </tr>
+</table>
+
+<table class="table table-striped" id='tablejvm' style="margin-top: 20px;display: none">
+    <tr>
+        <td class="success">jvm</td>
+        <td class="warning">qps</td>
+    </tr>
+</table>
+
+
+</body>
+<script th:src="@{./js/jquery-2.1.1.min.js}"></script>
+<script th:src="@{./js/avalon.js}"></script>
+<script th:src="@{./js/bootstrap.min.js}"></script>
+<script th:src="@{./js/myscript.js}"></script>
+</html>

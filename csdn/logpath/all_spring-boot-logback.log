@@ -1,0 +1,53 @@
+- | [] | [20200822 08:53:09.631] | [INFO] | [bogon] | [main] | [com.yxz.csdn.CsdnApplication] | --> Starting CsdnApplication on bogon with PID 1365 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)|
+- | [] | [20200822 08:53:09.636] | [DEBUG] | [bogon] | [main] | [com.yxz.csdn.CsdnApplication] | --> Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE|
+- | [] | [20200822 08:53:09.638] | [INFO] | [bogon] | [main] | [com.yxz.csdn.CsdnApplication] | --> No active profile set, falling back to default profiles: default|
+- | [] | [20200822 08:53:11.505] | [INFO] | [bogon] | [main] | [o.a.coyote.http11.Http11NioProtocol] | --> Initializing ProtocolHandler ["http-nio-9000"]|
+- | [] | [20200822 08:53:11.506] | [INFO] | [bogon] | [main] | [o.a.catalina.core.StandardService] | --> Starting service [Tomcat]|
+- | [] | [20200822 08:53:11.506] | [INFO] | [bogon] | [main] | [o.a.catalina.core.StandardEngine] | --> Starting Servlet engine: [Apache Tomcat/9.0.37]|
+- | [] | [20200822 08:53:11.634] | [INFO] | [bogon] | [main] | [o.a.c.c.C.[Tomcat].[localhost].[/]] | --> Initializing Spring embedded WebApplicationContext|
+- | [] | [20200822 08:53:12.218] | [INFO] | [bogon] | [main] | [o.a.coyote.http11.Http11NioProtocol] | --> Starting ProtocolHandler ["http-nio-9000"]|
+- | [] | [20200822 08:53:12.319] | [INFO] | [bogon] | [main] | [com.yxz.csdn.CsdnApplication] | --> Started CsdnApplication in 3.86 seconds (JVM running for 5.538)|
+- | [] | [20200822 08:53:12.324] | [INFO] | [bogon] | [main] | [com.yxz.csdn.CsdnApplication] | --> ===========================================|
+- | [] | [20200822 08:53:12.324] | [INFO] | [bogon] | [main] | [com.yxz.csdn.CsdnApplication] | --> ==== loyalty application start success ====|
+- | [] | [20200822 08:53:12.324] | [INFO] | [bogon] | [main] | [com.yxz.csdn.CsdnApplication] | --> ===========================================|
+20200822 08:55:37.058|  Starting CsdnApplication on bogon with PID 1381 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)20200822 08:55:37.063|  Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE20200822 08:55:37.064|  No active profile set, falling back to default profiles: default20200822 08:55:38.858|  Initializing ProtocolHandler ["http-nio-9000"]20200822 08:55:38.860|  Starting service [Tomcat]20200822 08:55:38.861|  Starting Servlet engine: [Apache Tomcat/9.0.37]20200822 08:55:39.008|  Initializing Spring embedded WebApplicationContext20200822 08:55:39.620|  Starting ProtocolHandler ["http-nio-9000"]20200822 08:55:39.729|  Started CsdnApplication in 3.722 seconds (JVM running for 5.33)20200822 08:55:39.733|  ===========================================20200822 08:55:39.733|  ==== loyalty application start success ====20200822 08:55:39.734|  ===========================================20200822 08:55:51.233|  Starting CsdnApplication on bogon with PID 1390 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)|
+20200822 08:55:51.238|  Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE|
+20200822 08:55:51.239|  No active profile set, falling back to default profiles: default|
+20200822 08:55:52.992|  Initializing ProtocolHandler ["http-nio-9000"]|
+20200822 08:55:52.993|  Starting service [Tomcat]|
+20200822 08:55:52.994|  Starting Servlet engine: [Apache Tomcat/9.0.37]|
+20200822 08:55:53.084|  Initializing Spring embedded WebApplicationContext|
+20200822 08:55:53.584|  Starting ProtocolHandler ["http-nio-9000"]|
+20200822 08:55:53.676|  Started CsdnApplication in 3.521 seconds (JVM running for 4.827)|
+20200822 08:55:53.680|  ===========================================|
+20200822 08:55:53.681|  ==== loyalty application start success ====|
+20200822 08:55:53.681|  ===========================================|
+20200822 08:56:12.159|  Initializing Spring DispatcherServlet 'dispatcherServlet'|
+20200822 08:56:12.283|  请求路径:http://localhost:9000/info|
+20200822 08:56:12.287|  请求方法:getInfo|
+20200822 08:56:12.287|  模块描述:|
+20200822 08:56:12.287|  请求参数:[Ljava.lang.Object;@75fab24c|
+20200822 08:56:50.201|  Starting CsdnApplication on bogon with PID 1402 (/Loyalty/project/study/csdn/target/classes started by yuexingzhong in /Loyalty/project/study/csdn)|
+20200822 08:56:50.205|  Running with Spring Boot v2.3.3.RELEASE, Spring v5.2.8.RELEASE|
+20200822 08:56:50.206|  No active profile set, falling back to default profiles: default|
+20200822 08:56:51.859|  Tomcat initialized with port(s): 9000 (http)|
+20200822 08:56:51.870|  Initializing ProtocolHandler ["http-nio-9000"]|
+20200822 08:56:51.871|  Starting service [Tomcat]|
+20200822 08:56:51.872|  Starting Servlet engine: [Apache Tomcat/9.0.37]|
+20200822 08:56:51.959|  Initializing Spring embedded WebApplicationContext|
+20200822 08:56:51.960|  Root WebApplicationContext: initialization completed in 1634 ms|
+20200822 08:56:52.236|  Initializing ExecutorService 'applicationTaskExecutor'|
+20200822 08:56:52.418|  Starting ProtocolHandler ["http-nio-9000"]|
+20200822 08:56:52.502|  Tomcat started on port(s): 9000 (http) with context path ''|
+20200822 08:56:52.521|  Started CsdnApplication in 3.578 seconds (JVM running for 5.144)|
+20200822 08:56:52.526|  ===========================================|
+20200822 08:56:52.526|  ==== loyalty application start success ====|
+20200822 08:56:52.526|  ===========================================|
+20200822 08:57:03.003|  Initializing Spring DispatcherServlet 'dispatcherServlet'|
+20200822 08:57:03.003|  Initializing Servlet 'dispatcherServlet'|
+20200822 08:57:03.019|  Completed initialization in 16 ms|
+20200822 08:57:03.093|  请求路径:http://localhost:9000/info|
+20200822 08:57:03.095|  请求方法:getInfo|
+20200822 08:57:03.095|  模块描述:|
+20200822 08:57:03.095|  请求参数:[Ljava.lang.Object;@3a2dde57|
+20200822 08:57:48.431|  Shutting down ExecutorService 'applicationTaskExecutor'|
