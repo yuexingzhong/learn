@@ -20,7 +20,19 @@ function getInfo() {
 function getJvm() {
     showhidediv("tablejvm","tabletest");
     removeTySaveTitle("tablejvm");
-
+    var status;
+    $.ajax({
+        url: "/actuator/health",
+        data: {},
+        type: "get",
+        dataType: "json",
+        success: function(data) {
+            var tr=   '<td>'+'</td>'+
+                '<td>'+'</td>'+
+                '<td>'+data.status+'</td>';
+            $("#tablejvm").append('<tr>'+tr+'</tr>')
+        }
+    });
 
 }
 
