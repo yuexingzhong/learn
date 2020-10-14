@@ -1,0 +1,1 @@
+insert into user VALUES (1,'account1','张三',20,100.00);
