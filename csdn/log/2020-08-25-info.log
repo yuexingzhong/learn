@@ -1,0 +1,60 @@
+10:07:23.616 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on DESKTOP-N5K2GI1 with PID 7836 (E:\yuexingzhonggit\learn\csdn\target\classes started by huayu in E:\yuexingzhonggit\learn\csdn)
+10:07:23.621 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:07:24.975 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:07:24.976 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:07:24.977 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:07:25.086 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:07:25.813 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:07:25.857 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.202 seconds (JVM running for 11.66)
+10:07:25.937 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:07:25.938 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:07:25.938 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:23:43.311 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:31:38.092 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on DESKTOP-N5K2GI1 with PID 11868 (E:\yuexingzhonggit\learn\csdn\target\classes started by huayu in E:\yuexingzhonggit\learn\csdn)
+10:31:38.096 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:31:39.724 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:31:39.725 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:31:39.725 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:31:39.854 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:31:40.644 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:31:40.687 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.16 seconds (JVM running for 6.355)
+10:31:40.697 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:31:40.697 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:31:40.697 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:31:55.243 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:32:35.631 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on DESKTOP-N5K2GI1 with PID 15140 (E:\yuexingzhonggit\learn\csdn\target\classes started by huayu in E:\yuexingzhonggit\learn\csdn)
+10:32:35.635 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:32:37.816 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:32:37.819 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:32:37.819 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:32:38.025 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:32:39.084 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:32:39.137 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 4.315 seconds (JVM running for 6.059)
+10:32:39.147 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:32:39.147 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:32:39.147 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:33:48.228 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:33:49.890 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:33:49.892 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:33:49.893 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:33:49.894 [http-nio-9000-exec-3] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@5fa356bd
+10:37:14.956 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:55] - Starting CsdnApplication on DESKTOP-N5K2GI1 with PID 24300 (E:\yuexingzhonggit\learn\csdn\target\classes started by huayu in E:\yuexingzhonggit\learn\csdn)
+10:37:14.959 [main] INFO  c.y.c.CsdnApplication [SpringApplication.java:651] - No active profile set, falling back to default profiles: default
+10:37:16.428 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Initializing ProtocolHandler ["http-nio-9000"]
+10:37:16.429 [main] INFO  o.a.c.c.StandardService [DirectJDKLog.java:173] - Starting service [Tomcat]
+10:37:16.430 [main] INFO  o.a.c.c.StandardEngine [DirectJDKLog.java:173] - Starting Servlet engine: [Apache Tomcat/9.0.37]
+10:37:16.562 [main] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring embedded WebApplicationContext
+10:37:17.348 [main] INFO  o.a.c.h.Http11NioProtocol [DirectJDKLog.java:173] - Starting ProtocolHandler ["http-nio-9000"]
+10:37:17.391 [main] INFO  c.y.c.CsdnApplication [StartupInfoLogger.java:61] - Started CsdnApplication in 3.439 seconds (JVM running for 5.556)
+10:37:17.400 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:13] - ===========================================
+10:37:17.401 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:14] - ==== loyalty application start success ====
+10:37:17.401 [main] INFO  c.y.c.CsdnApplication [CsdnApplication.java:15] - ===========================================
+10:37:34.183 [http-nio-9000-exec-1] INFO  o.a.c.c.C.[.[.[/] [DirectJDKLog.java:173] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+10:37:36.253 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:37:36.254 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:37:36.255 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:37:36.255 [http-nio-9000-exec-9] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@22763e82
+10:37:37.942 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:39] - 请求路径:http://localhost:9000/info
+10:37:37.943 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:42] - 请求方法:getInfo
+10:37:37.943 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:46] - 模块描述:
+10:37:37.943 [http-nio-9000-exec-1] INFO  c.y.c.c.DynamicLogAspect [DynamicLogAspect.java:48] - 请求参数:[Ljava.lang.Object;@cdf1800
