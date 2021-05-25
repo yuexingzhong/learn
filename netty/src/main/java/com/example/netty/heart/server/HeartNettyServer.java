@@ -3,6 +3,7 @@ package com.example.netty.heart.server;
 /**
  * create by yuexingzhong on 2021/1/12 17:00
  */
+
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
 import io.netty.channel.ChannelOption;
@@ -14,14 +15,13 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
  * 服务端启动类
  *
  * @author Administrator
- *
  */
 public class HeartNettyServer {
     public static void main(String[] args) throws InterruptedException {
         // 首先，netty通过ServerBootstrap启动服务端
         ServerBootstrap server = new ServerBootstrap();
         EventLoopGroup parentGroup = new NioEventLoopGroup();
-        EventLoopGroup childGroup =new NioEventLoopGroup();
+        EventLoopGroup childGroup = new NioEventLoopGroup();
         //第1步定义两个线程组，用来处理客户端通道的accept和读写事件
         //parentGroup用来处理accept事件，childgroup用来处理通道的读写事件
         //parentGroup获取客户端连接，连接接收到之后再将连接转发给childgroup去处理

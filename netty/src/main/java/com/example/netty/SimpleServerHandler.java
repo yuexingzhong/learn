@@ -6,10 +6,11 @@ import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 
 import java.nio.charset.Charset;
+
 /**
  * create by yuexingzhong on 2021/1/7 10:04
  */
-public class SimpleServerHandler extends  ChannelInboundHandlerAdapter {
+public class SimpleServerHandler extends ChannelInboundHandlerAdapter {
 
     /**
      * 读取客户端通道的数据
@@ -18,8 +19,8 @@ public class SimpleServerHandler extends  ChannelInboundHandlerAdapter {
     public void channelRead(ChannelHandlerContext ctx, Object msg) throws Exception {
         //可以在这里面写一套类似SpringMVC的框架
         //让SimpleServerHandler不跟任何业务有关，可以封装一套框架
-        if(msg instanceof ByteBuf){
-            System.out.println(((ByteBuf)msg).toString(Charset.defaultCharset()));
+        if (msg instanceof ByteBuf) {
+            System.out.println(((ByteBuf) msg).toString(Charset.defaultCharset()));
         }
 
         //业务逻辑代码处理框架。。。

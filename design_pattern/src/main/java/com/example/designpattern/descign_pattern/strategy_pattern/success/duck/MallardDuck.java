@@ -16,12 +16,10 @@ import com.example.designpattern.descign_pattern.strategy_pattern.success.fly.im
  */
 public class MallardDuck extends Duck {
 
-    public MallardDuck(){
-        quackBehavior=new Quack();
-        flyBehavior=new FlyWithWing();
+    public MallardDuck() {
+        quackBehavior = new Quack();
+        flyBehavior = new FlyWithWing();
     }
-
-
 
 
 }

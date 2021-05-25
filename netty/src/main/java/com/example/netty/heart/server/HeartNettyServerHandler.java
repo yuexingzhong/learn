@@ -3,6 +3,7 @@ package com.example.netty.heart.server;
 /**
  * create by yuexingzhong on 2021/1/12 17:01
  */
+
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.ChannelInboundHandlerAdapter;
 import io.netty.handler.timeout.IdleState;
@@ -12,12 +13,15 @@ import io.netty.handler.timeout.IdleStateEvent;
  * 处理服务端业务逻辑：心跳超时处理、客服端返回的数据处理
  *
  * @author Administrator
- *
  */
 public class HeartNettyServerHandler extends ChannelInboundHandlerAdapter {
-    /** 空闲次数 */
+    /**
+     * 空闲次数
+     */
     private int idle_count = 1;
-    /** 发送次数 */
+    /**
+     * 发送次数
+     */
     private int count = 1;
 
     /**

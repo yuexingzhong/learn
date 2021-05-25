@@ -17,11 +17,11 @@ import com.example.designpattern.descign_pattern.observer_pattern.partOne.show_b
 public class WeatherStation {
 
     public static void main(String[] args) {
-        WeatherData weatherData=new WeatherData();
-        CurrentConditionDisplay currentConditionDisplay=new CurrentConditionDisplay(weatherData);
-        ForecastConditionDisplay forecastConditionDisplay=new ForecastConditionDisplay(weatherData);
+        WeatherData weatherData = new WeatherData();
+        CurrentConditionDisplay currentConditionDisplay = new CurrentConditionDisplay(weatherData);
+        ForecastConditionDisplay forecastConditionDisplay = new ForecastConditionDisplay(weatherData);
 
-        weatherData.setWeatherData(80,65,30.4f);
-        weatherData.setWeatherData(60,40,29.2f);
+        weatherData.setWeatherData(80, 65, 30.4f);
+        weatherData.setWeatherData(60, 40, 29.2f);
     }
 }

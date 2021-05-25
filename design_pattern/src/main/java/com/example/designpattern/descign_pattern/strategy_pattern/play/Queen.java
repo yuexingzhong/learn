@@ -16,7 +16,7 @@ import com.example.designpattern.descign_pattern.strategy_pattern.play.weapon.im
  */
 public class Queen extends Character {
 
-    public Queen(){
-        weaponBehavior=new KnifeBehavior();
+    public Queen() {
+        weaponBehavior = new KnifeBehavior();
     }
 }

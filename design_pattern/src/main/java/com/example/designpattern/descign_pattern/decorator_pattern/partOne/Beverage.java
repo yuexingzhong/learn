@@ -11,12 +11,12 @@ package com.example.designpattern.descign_pattern.decorator_pattern.partOne;
  * @Author YUEXINGZHONG
  * @Version 1.0.0
  */
-public  abstract class Beverage {
+public abstract class Beverage {
 
 
-    String description="Unknown Beverage";
+    String description = "Unknown Beverage";
 
-    public String getDescription(){
+    public String getDescription() {
         return description;
     }
 

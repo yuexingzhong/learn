@@ -45,7 +45,7 @@ public class DynamicLogAspect {
         String value = logFilter.value();
         log.info("模块描述:" + value);
         Object[] args = point.getArgs();
-        log.info("请求参数:" + Objects.toString(args,""));
+        log.info("请求参数:" + Objects.toString(args, ""));
         return result;
     }
 }

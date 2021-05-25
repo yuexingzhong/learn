@@ -16,7 +16,6 @@ import java.io.IOException;
  * 客户端启动类
  *
  * @author Administrator
- *
  */
 public class HeartNettyClient {
 

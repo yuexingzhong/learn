@@ -37,7 +37,7 @@ public class Duck {
     /**
      * 飞翔特技
      */
-    public void fly(){
+    public void fly() {
 
     }
 

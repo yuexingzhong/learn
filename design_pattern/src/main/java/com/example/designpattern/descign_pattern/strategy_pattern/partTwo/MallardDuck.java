@@ -17,9 +17,9 @@ import org.springframework.beans.factory.annotation.Autowired;
 public class MallardDuck extends Duck {
 
     @Autowired
-     Quackable quackable;
+    Quackable quackable;
 
-    public void quack(){
+    public void quack() {
         quackable.quack();
     }
 

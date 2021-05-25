@@ -16,12 +16,12 @@ import com.example.designpattern.descign_pattern.strategy_pattern.success.quack.
  */
 public class ModelDuck extends Duck {
 
-    public ModelDuck(){
-        flyBehavior=new FlyNoWay();
-        quackBehavior=new MuteQuack();
+    public ModelDuck() {
+        flyBehavior = new FlyNoWay();
+        quackBehavior = new MuteQuack();
     }
 
-    public void display(){
+    public void display() {
         System.out.println("我是一個白色鴨子");
     }
 }

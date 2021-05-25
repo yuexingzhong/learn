@@ -31,8 +31,8 @@ public class CglibProxy implements MethodInterceptor {
     }
 
     public static void main(String[] args) {
-        CglibProxy proxy=new CglibProxy();
-        DoSomeThing cglibProxy = (DoSomeThing)proxy.getCglibProxy(new DoSomeThing());
+        CglibProxy proxy = new CglibProxy();
+        DoSomeThing cglibProxy = (DoSomeThing) proxy.getCglibProxy(new DoSomeThing());
         cglibProxy.please();
     }
 

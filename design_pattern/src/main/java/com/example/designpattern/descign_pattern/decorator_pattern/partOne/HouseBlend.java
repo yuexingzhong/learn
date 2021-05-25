@@ -13,9 +13,10 @@ package com.example.designpattern.descign_pattern.decorator_pattern.partOne;
  */
 public class HouseBlend extends Beverage {
 
-    public HouseBlend(){
-        description="HouseBlend";
+    public HouseBlend() {
+        description = "HouseBlend";
     }
+
     @Override
     public double cost() {
         return 2.31;

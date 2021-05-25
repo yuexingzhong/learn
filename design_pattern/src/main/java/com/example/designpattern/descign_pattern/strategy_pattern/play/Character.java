@@ -18,19 +18,14 @@ public class Character {
     WeaponBehavior weaponBehavior;
 
 
-
-
-
-    public void attack(){
+    public void attack() {
         weaponBehavior.attack();
     }
 
-    public void setWeaponBehavior(WeaponBehavior wb){
+    public void setWeaponBehavior(WeaponBehavior wb) {
         System.out.println("稍等......我不行 ----我换把武器");
-        weaponBehavior=wb;
+        weaponBehavior = wb;
     }
-
-
 
 
 }

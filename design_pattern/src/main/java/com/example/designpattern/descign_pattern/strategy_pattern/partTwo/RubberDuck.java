@@ -13,7 +13,7 @@ import com.example.designpattern.descign_pattern.strategy_pattern.partOne.Duck;
  * @Author YUEXINGZHONG
  * @Version 1.0.0
  */
-public class RubberDuck  extends Duck{
+public class RubberDuck extends Duck {
 
 
 }

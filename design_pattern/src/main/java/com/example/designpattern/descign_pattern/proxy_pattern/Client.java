@@ -6,7 +6,7 @@ package com.example.designpattern.descign_pattern.proxy_pattern;
 public class Client {
 
     public static void main(String[] args) {
-        Proxy proxy=new Proxy();
+        Proxy proxy = new Proxy();
         proxy.request();
     }
 }

@@ -14,14 +14,14 @@ public class DescignPatternApplicationTests {
     @Test
     public void contextLoads() {
         List<String> list = new ArrayList<>();
-        for ( String str:list){
+        for (String str : list) {
             System.out.println("11");
         }
         for (int i = 0; i < list.size(); i++) {
             System.out.println("22");
         }
-        list=new ArrayList<>();
-        for ( String str:list){
+        list = new ArrayList<>();
+        for (String str : list) {
             System.out.println("11");
         }
         for (int i = 0; i < list.size(); i++) {

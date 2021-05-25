@@ -3,9 +3,9 @@ package com.example.designpattern.descign_pattern.proxy_pattern.dynamic_proxy;
 /**
  * Created by YUEXINGZHONG on 2020/8/18 15:00
  */
-public class DoSomeThing implements DoSomeService ,StarThingService{
+public class DoSomeThing implements DoSomeService, StarThingService {
 
-    public void please(){
+    public void please() {
         System.out.println("邀请A明星参加我们的聚会");
     }
 

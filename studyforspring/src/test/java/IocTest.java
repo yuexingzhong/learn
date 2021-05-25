@@ -9,7 +9,7 @@ import org.junit.Test;
 public class IocTest {
 
     @Test
-    public void test(){
+    public void test() {
         ColdKill coldKill = new ColdKill(new SaveFlower());
         coldKill.play();
     }

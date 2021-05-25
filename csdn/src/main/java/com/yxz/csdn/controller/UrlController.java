@@ -34,14 +34,14 @@ public class UrlController {
     @GetMapping("info")
     @ResponseBody
     @DynamicLog
-    public AjaxRequest getInfo(HttpServletRequest request){
+    public AjaxRequest getInfo(HttpServletRequest request) {
         long begin = System.currentTimeMillis();
-        AjaxRequest result=new AjaxRequest();
+        AjaxRequest result = new AjaxRequest();
         result.setAjaxMethod(request.getMethod());
         result.setHeader(request.getHeader("user-agent"));
-        result.setCookie(Objects.toString(request.getCookies(),""));
+        result.setCookie(Objects.toString(request.getCookies(), ""));
         long end = System.currentTimeMillis();
-        result.setTime(end-begin);
+        result.setTime(end - begin);
         return result;
 
     }
@@ -49,7 +49,7 @@ public class UrlController {
     @GetMapping("/jvm")
     @ResponseBody
     @DynamicLog
-    public void getJvm(){
+    public void getJvm() {
 
     }
 

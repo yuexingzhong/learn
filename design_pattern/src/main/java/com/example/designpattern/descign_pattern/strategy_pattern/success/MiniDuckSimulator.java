@@ -35,7 +35,7 @@ public class MiniDuckSimulator {
 //        modelDuck.performFly();
 
 
-        Character queen=new Queen();
+        Character queen = new Queen();
         queen.attack();
         queen.setWeaponBehavior(new BowAndArrowBehavior());
         queen.attack();

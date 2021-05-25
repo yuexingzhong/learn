@@ -15,12 +15,13 @@ public class Mocha extends CondimentDecorator {
 
     Beverage beverage;
 
-    public Mocha(Beverage beverage){
-        this.beverage=beverage;
+    public Mocha(Beverage beverage) {
+        this.beverage = beverage;
     }
+
     @Override
     public String getDescription() {
-        return beverage.description+",mocha";
+        return beverage.description + ",mocha";
     }
 
     @Override

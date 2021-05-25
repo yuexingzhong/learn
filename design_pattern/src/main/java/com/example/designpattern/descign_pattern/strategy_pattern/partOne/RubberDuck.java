@@ -11,7 +11,7 @@ package com.example.designpattern.descign_pattern.strategy_pattern.partOne;
  * @Author YUEXINGZHONG
  * @Version 1.0.0
  */
-public class RubberDuck  extends Duck{
+public class RubberDuck extends Duck {
 
     //重载父类方法重写为吱吱叫
     @Override

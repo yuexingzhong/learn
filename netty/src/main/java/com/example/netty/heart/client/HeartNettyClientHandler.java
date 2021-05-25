@@ -3,6 +3,7 @@ package com.example.netty.heart.client;
 /**
  * create by yuexingzhong on 2021/1/12 17:02
  */
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -15,23 +16,30 @@ import io.netty.handler.timeout.IdleStateEvent;
 import io.netty.util.CharsetUtil;
 
 /**
- *    处理客户端业务逻辑：心跳超时处理、服务端返回的数据处理
+ * 处理客户端业务逻辑：心跳超时处理、服务端返回的数据处理
  *
  * @author Administrator
- *
  */
 public class HeartNettyClientHandler extends ChannelInboundHandlerAdapter {
-    /** 客户端请求的心跳命令 */
+    /**
+     * 客户端请求的心跳命令
+     */
     private static final ByteBuf HEARTBEAT_SEQUENCE =
             Unpooled.unreleasableBuffer(Unpooled.copiedBuffer("hb_request", CharsetUtil.UTF_8));
 
-    /** 空闲次数 */
+    /**
+     * 空闲次数
+     */
     private int idle_count = 1;
 
-    /** 发送次数 */
+    /**
+     * 发送次数
+     */
     private int count = 1;
 
-    /** 循环次数 */
+    /**
+     * 循环次数
+     */
     private int fcount = 1;
 
     /**
@@ -53,7 +61,6 @@ public class HeartNettyClientHandler extends ChannelInboundHandlerAdapter {
 
     /**
      * 心跳请求处理，每4秒发送一次心跳请求;
-     *
      */
     @Override
     public void userEventTriggered(ChannelHandlerContext ctx, Object obj) throws Exception {
@@ -84,7 +91,7 @@ public class HeartNettyClientHandler extends ChannelInboundHandlerAdapter {
         count++;
     }
 
-    private String date(){
+    private String date() {
         SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss");
         return sdf.format(new Date());
     }

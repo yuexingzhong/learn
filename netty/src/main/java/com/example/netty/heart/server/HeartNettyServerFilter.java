@@ -3,6 +3,7 @@ package com.example.netty.heart.server;
 /**
  * create by yuexingzhong on 2021/1/12 17:01
  */
+
 import java.util.concurrent.TimeUnit;
 
 import io.netty.channel.ChannelInitializer;
@@ -16,7 +17,6 @@ import io.netty.handler.timeout.IdleStateHandler;
  * 服务端过滤器，如编解码和心跳的设置
  *
  * @author Administrator
- *
  */
 public class HeartNettyServerFilter extends ChannelInitializer<SocketChannel> {
 

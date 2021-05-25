@@ -12,7 +12,7 @@ public class BeanLifeCycle implements InitializingBean {
     }
 
 
-    public void doSomething(){
+    public void doSomething() {
         System.out.println("123");
     }
 }
