@@ -14,10 +14,14 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 public class SpringLoadStudy {
 
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException {
 
         ApplicationContext ac=new ClassPathXmlApplicationContext("classpath:application.xml");
         Study study =(Study) ac.getBean("study");
+
         System.out.println(study.getAge());
+
+        Class<?> aClass = Class.forName("springload.Study");
+
     }
 }

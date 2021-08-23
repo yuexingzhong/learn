@@ -5,16 +5,13 @@ import lombok.Data;
 /**
  * 描述:
  * User: YueXZ
- * DateTime: 2021/8/5 14:01
+ * DateTime: 2021/8/11 15:56
  * Version：1.0.0
  */
 @Data
-public class Study {
+public class StudyB {
     private String name;
     private String age;
-    private String StudyB;
+    private String StudyA;
 
-    public void clean() {
-        System.out.println("123");
-    }
 }

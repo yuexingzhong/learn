@@ -2,6 +2,7 @@ package com.example.redisson.controller;
 
 import com.example.redisson.config.annotation.DistributedLock;
 import com.example.redisson.lock.RedissonLock;
+import lombok.Getter;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
@@ -25,7 +26,7 @@ public class AnnotatinLockController {
     public static volatile Integer TOTAL = 10;
 
     @GetMapping("annotatin-lock-decrease-stock")
-    @DistributedLock(value="goods", leaseTime=5)
+    @DistributedLock(value = "goods", leaseTime = 5)
     public String lockDecreaseStock() throws InterruptedException {
         if (TOTAL > 0) {
             TOTAL--;

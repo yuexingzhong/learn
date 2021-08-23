@@ -11,3 +11,7 @@
 - [x] RedissLock实现分布式锁
 - [x] 注解添加分布式锁
 - [ ] zookeeper通过CuratorZookeeperClient操作监听和重试机制
+
+#### 2021/08/23
+- [x] 代码测试线程池各种参数
+- [ ] Rlock实现分布式锁
