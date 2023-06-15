@@ -7,6 +7,7 @@ package com.day.algoritm.day1;
  * Version：1.0.0
  */
 public class NodePlay {
+
 }
 
 
