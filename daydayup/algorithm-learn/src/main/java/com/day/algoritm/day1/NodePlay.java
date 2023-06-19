@@ -113,3 +113,7 @@ class ListDoubleNode {
         this.next = next;
     }
 }
+
+class MyQuenu {
+
+}
