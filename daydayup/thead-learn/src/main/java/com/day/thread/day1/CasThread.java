@@ -20,5 +20,7 @@ public class CasThread {
         thread.start();
 
         System.out.println(a.get());
+
+
     }
 }

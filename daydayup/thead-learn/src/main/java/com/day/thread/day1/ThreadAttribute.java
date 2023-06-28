@@ -9,32 +9,24 @@ package com.day.thread.day1;
 public class ThreadAttribute {
 
 
-    private static int a = 0;
-
     public static void main(String[] args) throws InterruptedException {
+        Object o = new Object();
 
 
-        Thread thread1 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
-                a++;
+        new Thread(() -> {
+            synchronized (o) {
+                System.out.println("获取锁t1" + System.currentTimeMillis());
+                try {
+                    o.wait(2000);
+                } catch (Exception e) {
+                }
+                System.out.println("锁t1继续执行" + System.currentTimeMillis());
             }
-        });
-
-
-        Thread thread2 = new Thread(() -> {
-            for (int i = 0; i < 1000; i++) {
-                a++;
-            }
-        });
-
-        thread1.start();
-
-        thread2.start();
-
-        thread2.join();
-        thread1.join();
-
-        System.out.println(a);
+        }).start();
+        Thread.sleep(2000);
+        synchronized (o) {
+            System.out.println("获取锁main" + System.currentTimeMillis());
+        }
     }
 
 
