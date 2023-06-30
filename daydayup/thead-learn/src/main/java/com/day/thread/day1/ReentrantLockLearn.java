@@ -1,6 +1,6 @@
 package com.day.thread.day1;
 
-import java.util.concurrent.locks.Condition;
+import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
 /**
@@ -11,18 +11,22 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class ReentrantLockLearn {
 
+    private static Lock lock = new ReentrantLock();
+
 
     public static void main(String[] args) throws InterruptedException {
-        ReentrantLock reentrantLock = new ReentrantLock();
-        Condition condition = reentrantLock.newCondition();
-        reentrantLock.lock();
-        try {
-            condition.await();
-            condition.signal();
-        } finally {
-            reentrantLock.unlock();
-        }
+        lock.lock();
 
+        Thread thread = new Thread(() -> {
+            lock.lock();
+        });
+        thread.setName("reentrantLock-trylcok");
+
+        thread.start();
+        thread.join();
+
+        Thread.sleep(3000);
+        lock.unlock();
 
     }
 }
