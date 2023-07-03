@@ -1,4 +1,4 @@
-package com.day.thread.day1;
+package com.day.thread;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutionException;

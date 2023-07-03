@@ -1,4 +1,4 @@
-package com.day.thread.day1;
+package com.day.thread;
 
 /**
  * 描述:

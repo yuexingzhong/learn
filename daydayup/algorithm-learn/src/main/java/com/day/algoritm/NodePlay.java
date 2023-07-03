@@ -1,4 +1,4 @@
-package com.day.algoritm.day1;
+package com.day.algoritm;
 
 /**
  * 描述:

@@ -1,4 +1,4 @@
-package com.day.thread.day1;
+package com.day.thread;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.Lock;
@@ -7,15 +7,18 @@ import java.util.concurrent.locks.ReentrantLock;
 /**
  * desc:
  * User: YueXZ
- * DateTime: 2023/6/28 14:04
+ * DateTime: 2023/6/29 17:12
  * Version：1.0.0
  */
-public class AQSTest {
+public class ReentrantLockLearn {
+
+    private static Lock lock = new ReentrantLock();
+
 
     public static void main(String[] args) throws InterruptedException {
-        Lock lock = new ReentrantLock(true);
-        lock.lock();
-        lock.lockInterruptibly();
-    }
+        lock.tryLock(10, TimeUnit.SECONDS);
 
+        throw new RuntimeException();
+
+    }
 }
