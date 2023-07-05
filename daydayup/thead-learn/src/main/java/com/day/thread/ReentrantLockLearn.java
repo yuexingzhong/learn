@@ -12,13 +12,25 @@ import java.util.concurrent.locks.ReentrantLock;
  */
 public class ReentrantLockLearn {
 
-    private static Lock lock = new ReentrantLock();
-
 
     public static void main(String[] args) throws InterruptedException {
-        lock.tryLock(10, TimeUnit.SECONDS);
+        Lock lock = new ReentrantLock();
+        System.out.println("主线程锁上了");
+        lock.lock();
 
-        throw new RuntimeException();
+        new Thread(() -> {
+            try {
+                lock.tryLock(1, TimeUnit.SECONDS);
+                lock.lockInterruptibly();
+                System.out.println("子线程锁上了");
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }).start();
+        Thread.sleep(20000);
+        System.out.println("主线程解锁了");
+        lock.unlock();
+
 
     }
 }
