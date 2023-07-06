@@ -18,17 +18,20 @@ public class ReentrantLockLearn {
         System.out.println("主线程锁上了");
         lock.lock();
 
-        new Thread(() -> {
+        Thread thread = new Thread(() -> {
             try {
-                lock.tryLock(1, TimeUnit.SECONDS);
                 lock.lockInterruptibly();
+
                 System.out.println("子线程锁上了");
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-        }).start();
-        Thread.sleep(20000);
+        });
+        thread.start();
+
         System.out.println("主线程解锁了");
+
+
         lock.unlock();
 
 
