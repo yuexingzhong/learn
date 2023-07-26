@@ -1,5 +1,10 @@
 package com.day.thread;
 
+import org.LatencyUtils.TimeServices;
+
+import java.util.concurrent.*;
+import java.util.concurrent.atomic.AtomicInteger;
+
 /**
  * desc:
  * User: YueXZ
@@ -9,7 +14,17 @@ package com.day.thread;
 public class ThreadLocalTest {
 
     public static void main(String[] args) {
-        ThreadLocal threadLocal=new ThreadLocal();
-        threadLocal.remove();
+
+        ScheduledThreadPoolExecutor scheduledThreadPoolExecutor = new ScheduledThreadPoolExecutor(1, new ThreadPoolExecutor.DiscardOldestPolicy());
+
+        AtomicInteger atomicInteger = new AtomicInteger();
+
+
+        scheduledThreadPoolExecutor.scheduleWithFixedDelay(() -> {
+
+            scheduledThreadPoolExecutor.shutdown();
+
+        }, 1, 60, TimeUnit.SECONDS);
+
     }
 }

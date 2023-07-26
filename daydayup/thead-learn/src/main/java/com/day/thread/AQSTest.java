@@ -14,7 +14,6 @@ public class AQSTest {
 
     public static void main(String[] args) throws InterruptedException {
         Lock lock = new ReentrantLock(true);
-        Integer
 
         lock.lock();
         lock.lockInterruptibly();
