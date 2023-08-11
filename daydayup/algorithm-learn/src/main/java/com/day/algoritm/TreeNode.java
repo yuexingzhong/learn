@@ -8,7 +8,7 @@ package com.day.algoritm;
  */
 public class TreeNode {
 
-    int val;
+    Integer val;
     TreeNode left;
     TreeNode right;
 
