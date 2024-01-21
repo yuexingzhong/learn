@@ -1,4 +1,4 @@
-package com.example.netty.test.server;
+package com.example.netty.test.client;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
@@ -9,7 +9,6 @@ import io.netty.util.CharsetUtil;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import java.nio.charset.StandardCharsets;
 import java.util.List;
 
 /**
@@ -19,20 +18,19 @@ import java.util.List;
  * @date 2019/3/10
  */
 @ChannelHandler.Sharable
-public class MiniMessageFrameEncoder extends MessageToMessageEncoder<String> {
-    private static Logger logger = LoggerFactory.getLogger(MiniMessageFrameEncoder.class);
+public class MiniClientMessageFrameEncoder extends MessageToMessageEncoder<String> {
+    private static Logger logger = LoggerFactory.getLogger(MiniClientMessageFrameEncoder.class);
 
     @Override
     protected void encode(ChannelHandlerContext ctx, String msg, List<Object> out) {
+
         StringBuffer stringBuffer = new StringBuffer();
         stringBuffer.append("<")
                 .append(msg)
-                .append(" back")
+                .append(":back")
                 .append(">");
-
-        System.out.println("服务端发送:" + stringBuffer);
+        System.out.println("客户端发送:" + stringBuffer.toString());
         ByteBuf message = Unpooled.copiedBuffer(stringBuffer.toString(), CharsetUtil.UTF_8);
-
         out.add(message);
     }
 }

@@ -1,15 +1,10 @@
-package com.example.netty.test.server;
+package com.example.netty.test.client;
 
-import io.netty.buffer.ByteBuf;
-import io.netty.buffer.Unpooled;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;
 import io.netty.channel.group.ChannelGroup;
 import io.netty.channel.group.DefaultChannelGroup;
-import io.netty.util.CharsetUtil;
 import io.netty.util.concurrent.GlobalEventExecutor;
-
-import java.nio.charset.StandardCharsets;
 
 /**
  * 输送线netty消息处理handler
@@ -17,7 +12,7 @@ import java.nio.charset.StandardCharsets;
  * @author duanyuhui Email:duanyuhui@jd.com
  * @date 2017/3/16
  */
-public class MiniMessageHandler extends SimpleChannelInboundHandler<String> {
+public class MiniClientMessageHandler extends SimpleChannelInboundHandler<String> {
 
     public static final ChannelGroup clients = new DefaultChannelGroup(GlobalEventExecutor.INSTANCE);
 
@@ -42,7 +37,7 @@ public class MiniMessageHandler extends SimpleChannelInboundHandler<String> {
     @Override
     protected void channelRead0(ChannelHandlerContext channelHandlerContext, String s) throws Exception {
 
-        channelHandlerContext.writeAndFlush("server");
+        channelHandlerContext.writeAndFlush("client");
 
     }
 }

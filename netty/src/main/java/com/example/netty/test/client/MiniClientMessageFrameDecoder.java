@@ -1,4 +1,4 @@
-package com.example.netty.test.server;
+package com.example.netty.test.client;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.channel.ChannelHandlerContext;
@@ -15,12 +15,12 @@ import java.util.List;
  * @author duanyuhui Email:duanyuhui@jd.com
  * @date 2019/3/10
  */
-public class MiniMessageFrameDecoder extends ByteToMessageDecoder {
-    private static Logger logger = LoggerFactory.getLogger(MiniMessageFrameDecoder.class);
+public class MiniClientMessageFrameDecoder extends ByteToMessageDecoder {
+    private static Logger logger = LoggerFactory.getLogger(MiniClientMessageFrameDecoder.class);
 
     @Override
     protected void decode(ChannelHandlerContext ctx, ByteBuf buffer, List<Object> out) {
-        String str = "服务端接收报文：" + getStringValueByLength(buffer, buffer.readableBytes());
+        String str = "客户端接收报文：" + getStringValueByLength(buffer, buffer.readableBytes());
         System.out.println(str);
         out.add(str);
     }
