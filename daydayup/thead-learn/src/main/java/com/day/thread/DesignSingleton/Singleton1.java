@@ -9,14 +9,18 @@ package com.day.thread.DesignSingleton;
 public class Singleton1 {
 
     //懒汉
-    private static Singleton1 instance;
+    private volatile static Singleton1 instance;
 
     private Singleton1() {
     }
 
-    public static synchronized  Singleton1 getInstance() {
+    public static synchronized Singleton1 getInstance() {
         if (instance == null) {
-            instance = new Singleton1();
+            synchronized (Singleton1.class) {
+                if (instance == null) {
+                    instance = new Singleton1();
+                }
+            }
         }
         return instance;
     }

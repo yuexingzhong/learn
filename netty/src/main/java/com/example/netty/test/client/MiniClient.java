@@ -36,6 +36,8 @@ public class MiniClient {
 
         future.channel().closeFuture().sync();
 
+        System.out.println(1312);
+
 
     }
 }
