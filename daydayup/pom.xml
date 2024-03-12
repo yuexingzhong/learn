@@ -11,6 +11,7 @@
     <modules>
         <module>algorithm-learn</module>
         <module>thead-learn</module>
+        <module>play</module>
     </modules>
 
     <parent>
@@ -25,6 +26,17 @@
             <artifactId>hippo4j-config-spring-boot-starter</artifactId>
             <version>1.5.0</version>
         </dependency>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-data-redis</artifactId>
+            <exclusions>
+                <exclusion>
+                    <groupId>com.fasterxml.jackson.core</groupId>
+                    <artifactId>jackson-databind</artifactId>
+                </exclusion>
+            </exclusions>
+        </dependency>
+
     </dependencies>
 
 
