@@ -3,6 +3,7 @@ import com.fasterxml.jackson.annotation.PropertyAccessor;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.data.redis.connection.RedisStandaloneConfiguration;
 import org.springframework.data.redis.connection.lettuce.LettuceConnectionFactory;
+import org.springframework.data.redis.core.BoundListOperations;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.data.redis.core.StringRedisTemplate;
 import org.springframework.data.redis.serializer.Jackson2JsonRedisSerializer;
@@ -37,7 +38,17 @@ public class test {
         StringRedisTemplate stringRedisTemplate = new StringRedisTemplate(lettuceConnectionFactory);
 
         // 设置 redis 字符串数据
-        redisTemplate.opsForValue().set("name", "1");
+        BoundListOperations<String, Object> listOps = redisTemplate.boundListOps("mini");
+        listOps.rightPush("123");
+        
+        while (true){
+            System.out.println(redisTemplate.boundListOps("mini").rightPop());
+        }
+        
+        
+        
+        
+        
 //        // 获取存储的数据并输出
 //        System.out.println("Stored string in redis: " + redisTemplate.opsForValue().get("name"));
 //

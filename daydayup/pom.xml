@@ -12,6 +12,7 @@
         <module>algorithm-learn</module>
         <module>thead-learn</module>
         <module>play</module>
+        <module>db</module>
     </modules>
 
     <parent>
@@ -35,6 +36,10 @@
                     <artifactId>jackson-databind</artifactId>
                 </exclusion>
             </exclusions>
+        </dependency>
+        <dependency>
+            <groupId></groupId>
+            <artifactId></artifactId>
         </dependency>
 
     </dependencies>
