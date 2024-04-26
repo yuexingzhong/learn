@@ -24,7 +24,7 @@ public class ThreadDataMerge {
 
     private static void forkJoinMethod() throws InterruptedException, ExecutionException {
         long l1 = System.currentTimeMillis();
-        ForkJoinPool forkJoinPool = (ForkJoinPool) Executors.newWorkStealingPool();
+        ForkJoinPool forkJoinPool = new ForkJoinPool();
         ForkJoinTask<Integer> submit = forkJoinPool.submit(new MyForkJoin(0, 10));
 
         //        time1(poolExecutor);

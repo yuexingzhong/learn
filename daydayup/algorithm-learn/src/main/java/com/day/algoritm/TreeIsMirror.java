@@ -30,7 +30,7 @@ public class TreeIsMirror {
         if (node1 == null ^ node2 == null) {
             return false;
         }
-        if (node1 == null && node2 == null) {
+        if (node1 == null) {
             return true;
         }
         if (node1.val == node2.val) {
